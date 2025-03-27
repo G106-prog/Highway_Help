@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433526623828",
+    "project_id": "highwayhelp-5e38d",
+    "storage_bucket": "highwayhelp-5e38d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433526623828:android:0a3fa30eb4ba22075567c1",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmPv8oPTERbdJxPNdX4MgQk4TNGd_784o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
